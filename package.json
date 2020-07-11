@@ -1,0 +1,28 @@
+{
+  "name": "parse-server-aws-ses",
+  "version": "1.0.0",
+  "description": "Parse Server Amazon SES emailadapter utilizing the Amazon AWS JS SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NEXT-Amsterdam/parse-server-aws-ses.git"
+  },
+  "keywords": [
+    "parse-server",
+    "aws",
+    "ses",
+    "email"
+  ],
+  "author": "Timan Rebel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NEXT-Amsterdam/parse-server-aws-ses/issues"
+  },
+  "homepage": "https://github.com/NEXT-Amsterdam/parse-server-aws-ses#readme",
+  "dependencies": {
+    "aws-sdk": "^2.713.0"
+  }
+}
